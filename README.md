@@ -64,6 +64,12 @@
 
    [solution.py](./dodge-the-lasers/solution.py)
 
+2. ### Disorderly Escape
+
+   [Task](./disorderly-escape/)
+
+   [solution.py](./disorderly-escape/solution.py)
+
 ## For your eyes only!
 
    ![completed](./completed.jpg "completed")
